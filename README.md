@@ -1,1 +1,1 @@
-# -fsf_2020_screening_task
+# fsf_2020_screening_task
