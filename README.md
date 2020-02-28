@@ -24,6 +24,8 @@ The spreadsheet application has options of formatting like:
 
 4) Insert a row
 
+**Additional features include: Creating sample file,Loading input through a CSV/XLS file,Data Validation,Data reset,Data submission**
+
 
 ![](Screenshots/sheet.jpg)
 
